@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">health</string>
+    <string name="password">Password</string>
+    <string name="_24_7_healthcare">24*7 Healthcare</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="register_for_new_user">Register for new user</string>
+    <string name="textview">TextView</string>
+    <string name="book">BOOK</string>
+
+    <item name="cardBuyMedicine" type="id" />
+    <item name="cardLabTest" type="id" />
+    <item name="cardFindDoctor" type="id" />
+    <item name="cardHealthArticles" type="id" />
+    <item name="cardOrderDetails" type="id" />
+    <item name="cardExit" type="id" />
+    <item name="cardFDFamilyPhysician" type="id" />
+    <item name="cardFDDietician" type="id" />
+    <item name="cardFDDentist" type="id" />
+    <item name="cardFDSurgeon" type="id" />
+    <item name="cardFDCardiologists" type="id" />
+    <item name="cardFDBack" type="id" />
+
+    <item name="ListViewDD" type="id" />
+    <item name="buttonBMGoToCart" type="id" />
+    <item name="buttonBMBack" type="id" />
+
+</resources>

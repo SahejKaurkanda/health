@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listViewDD" type="id" />
+    <item name="listViewBM" type="id" />
+    <item name="buttonBMDAddToCart" type="id" />
+    <item name="buttonBMDBack" type="id" />
+    <item name="buttonLTBBooking" type="id" />
+    <item name="buttonBMBBooking" type="id" />
+    <item name="buttonLTGoToCart" type="id" />
+    <item name="buttonLTBack" type="id" />
+    <item name="listViewLT" type="id" />
+    <item name="buttonLTDAddCart" type="id" />
+    <item name="buttonLTDBack" type="id" />
+    <item name="buttonLTDGoBack" type="id" />
+    <item name="buttonBMCartCheckout" type="id" />
+    <item name="textViewBMCartMultiLine" type="id" />
+    <item name="buttonBMCartTotalCost" type="id" />
+    <item name="listViewHA" type="id" />
+    <item name="listViewOD" type="id" />
+    <item name="listViewCL" type="id" />
+    <item name="buttonLoginBack" type="id" />
+    <item name="buttonRegister" type="id" />
+    <item name="editTextLoginUsername" type="id" />
+    <item name="editTextBAFullName" type="id" />
+    <item name="editTextBAContactNumber" type="id" />
+    <item name="editTextBAFees" type="id" />
+    <item name="editTextBAAddress" type="id" />
+    <item name="editTextLoginPassword" type="id" />
+    <item name="editTextAppFullName" type="id" />
+    <item name="editTextAppEmail" type="id" />
+    <item name="editTextAppPassword" type="id" />
+    <item name="editTextAppConfirmPassword" type="id" />
+    <item name="buttonDDBack" type="id" />
+    <item name="buttonBABack" type="id" />
+    <item name="buttonBABookAppointment" type="id" />
+    <item name="buttonODBack" type="id" />
+    <item name="textViewODTitle" type="id" />
+    <item name="orderListView" type="id" />
+
+
+</resources>
